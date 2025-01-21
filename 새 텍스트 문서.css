@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Macondo&family=Noto+Sans+Cuneiform&display=swap');
+.A {
+    font-family: "Macondo", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .noto-sans-cuneiform-regular {
+    font-family: "Noto Sans Cuneiform", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .amatic-sc-regular {
+    font-family: "Amatic SC", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .amatic-sc-bold {
+    font-family: "Amatic SC", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .img_button {
+    background-image: url(https://drive.google.com/uc?export=view&id=1M7T29S76qywnZlCfKQb2-YFXVHFLTOVb);
+    transition: all 0.5s ease;
+    position: relative;
+    left: 450px; top: 50px;
+    width: 400px;
+    height: 200px;
+    background-size: 100% 100%;
+  }
+  .img_button:hover {
+    transition: all 0.5s ease;
+    background-image: url(https://drive.google.com/uc?export=view&id=19aSTMPMkVSttLn47ZmpzvY_WQTdowOC4);
+    position: relative;
+    left: 450px; top: 50px;
+    width: 400px;
+    height: 200px;
+    background-size: 100% 100%;
+  }
